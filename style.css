@@ -164,7 +164,7 @@ header {
   color: #64748b;
 }
 
-button {
+.hero__description--button {
   background-color: #c231c2;
   width: 95%;
   color: white;
